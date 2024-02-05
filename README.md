@@ -5,10 +5,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Tiltuemm)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dekerilljr@gmail.com)
 
-I'm an aspiring developer from Russia.
+I've been programming for about 4 years, of which more than a year and a half - in the professional sphere. Currently, my work includes fulfillment of orders on freelancing. I started my way as an individual performer, but in the last six months I have been successfully working in a team.
 
-Interested in web development. Started programming with C++, touched Assembly a bit, but later moved to Java.
-
+I started my professional path in IT as a mathematical engineer, working in such programs as `MatLab`, `SciLab` and `MathCad`. My transition to full-fledged programming began with learning `Pascal` and `C++`. For a deep understanding of programming, I also learned the basics of `Assembly`. At the moment my main programming language is `Java`, where I found my technological element.
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
