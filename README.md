@@ -20,17 +20,56 @@ I started my professional path in IT as a mathematical engineer, working in such
 [![GitHub Streak](https://streak-stats.demolab.com?user=tiltuem&theme=github-dark&hide_border=true&fire=39D353&stroke=B1BAC400&dates=8B949E&ring=388bfd&card_width=340)](https://git.io/streak-stats)
 
 ---
+<summary><h2><b>📚Languages and Tools</b></h2></summary>
 
-  <summary><h2><b>📚 My stack</b></h2></summary>
-  <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=java,postgres,mysql,html,css&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,githubactions,docker,git,bootstrap&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=idea,visualstudio,postman,linux&perline=7" />
-    <br>
-  </p>
+<table>
+    <tbody>
+        <tr>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=java" /></a>
+                <br>Java
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=spring"/></a>
+                <br> Spring
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=hibernate"/></a>
+                <br> Hibernate
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=kafka"/></a>
+                <br> Kafka
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=grafana"/></a>
+                <br> Grafana
+            </td>
+        </tr>
+        <tr>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=githubactions"/></a>
+                <br> Git Actions
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=docker"/></a>
+                <br> Docker
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=idea"/></a>
+                <br> Intellij idea
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=linux"/></a>
+                <br> Linux
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://skillicons.dev/icons?i=postman"/></a>
+                <br> Postman
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
@@ -39,4 +78,5 @@ I started my professional path in IT as a mathematical engineer, working in such
 ![codewars](https://www.codewars.com/users/Tiltuem/badges/large)
 
 ### 💻 LeetCode:
+
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=TonYy1337&theme=dark)
